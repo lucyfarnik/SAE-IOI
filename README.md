@@ -1,5 +1,6 @@
 # Exploring parts of the IOI circuit with sparse autoencoders (Neel Nanda MATS application)
-[Research diary](https://docs.google.com/document/d/1fLUjUzk5Bze8ZCqosTb31Inixv8KaV6hiHFscr36nJ0/edit)
+[Here's the research diary](https://docs.google.com/document/d/1fLUjUzk5Bze8ZCqosTb31Inixv8KaV6hiHFscr36nJ0/edit)
+which has all the information about this project.
 
 The main file is `itsa_me_mainio.py`.
 
